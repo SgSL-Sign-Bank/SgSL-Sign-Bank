@@ -1,11 +1,14 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Kind
+image: "@signs/kind.gif"
 category: Vocabulary
-dependentImages: ["@signs/year.gif"]
+family: All
 ---
 
-Same motion as ["year"](./year), which is shown below,
-but with a "K" hand sign instead of the closed fist.
+Kind as in "a kind of insect".
 
-![Year](@signs/year.gif)
+Same motion as ["all"](./all),
+but with a "K" hand sign instead of the open palm.
+
+![Kind](@signs/kind.gif)
