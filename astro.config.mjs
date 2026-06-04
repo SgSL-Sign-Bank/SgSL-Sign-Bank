@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from "astro/config";
+import { satteri } from "@astrojs/markdown-satteri";
 import { pagefind } from "vite-plugin-pagefind";
 import sitemap from "@astrojs/sitemap";
 import mdx from "@astrojs/mdx";
@@ -14,15 +15,11 @@ export default defineConfig({
         layout: "constrained",
     },
 
+    // Use the satteri markdown processor
     markdown: {
-
-        // Disable smartypants so the quotes don't look weird
-        // due to the Chinese font
-        smartypants: false,
-
-        // There is no code in the project,
-        // so syntax highlighting is not needed
-        syntaxHighlight: false,
+        processor: satteri({
+            features: { directive: true },
+        })
     },
 
     // CSP
