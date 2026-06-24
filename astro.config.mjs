@@ -1,6 +1,5 @@
 // @ts-check
 import { defineConfig } from "astro/config";
-import { satteri } from "@astrojs/markdown-satteri";
 import { pagefind } from "vite-plugin-pagefind";
 import sitemap from "@astrojs/sitemap";
 import mdx from "@astrojs/mdx";
@@ -13,13 +12,6 @@ export default defineConfig({
 
     image: {
         layout: "constrained",
-    },
-
-    // Use the satteri markdown processor
-    markdown: {
-        processor: satteri({
-            features: { directive: true },
-        })
     },
 
     // CSP
