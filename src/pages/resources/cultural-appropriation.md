@@ -309,15 +309,18 @@ Thus, the same applies to hearing people song signing.
 This article was written after extensive discussions
 with the Deaf community in Singapore.
 
-Do also read this fantastic [HandSpeak] article on cultural appropriation,
+Do also read
+[this blog post by Stephen Torrence][StephenTorrence],
+and [this fantastic HandSpeak article on cultural appropriation][HandSpeak],
 as well as the related posts at the bottom of the article.
 
 References used:
 
+- [HandSpeak]
 - [Wikipedia]
 - [EcoWarriorNation]
-- [HandSpeak]
 
-[Wikipedia]: https://en.wikipedia.org/wiki/Cultural_appropriation
 [HandSpeak]: https://www.handspeak.com/learn/351/
+[StephenTorrence]: https://www.stephentorrence.com/blog/on-the-ethics-of-my-art/
+[Wikipedia]: https://en.wikipedia.org/wiki/Cultural_appropriation
 [EcoWarriorNation]: https://ecowarriornation.com/culture/cultural-appropriation-what-it-is-why-it-matters/
