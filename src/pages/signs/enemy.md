@@ -5,8 +5,7 @@ category: Vocabulary
 dependentImages: ["@signs/opposite.gif"]
 ---
 
-Same motion as ["opposite"](./opposite),
-which is shown below, but for one hand,
+Same motion as ["opposite"](./opposite), which is shown below, but for one hand,
 use the "E" hand sign instead of the index finger.
 
 ![Opposite](@signs/opposite.gif)

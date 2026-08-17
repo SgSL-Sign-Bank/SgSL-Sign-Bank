@@ -5,8 +5,8 @@ image: "@signs/alamak.gif"
 category: Singlish
 ---
 
-"Alamak" is usually used to express shock
-or dismay at something that has happened.
+"Alamak" is usually used to express shock or dismay at something that has
+happened.
 
 ![Alamak](@signs/alamak.gif)
 

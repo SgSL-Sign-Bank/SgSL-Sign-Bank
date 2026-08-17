@@ -5,7 +5,7 @@ image: "@signs/merdeaf-jom.png"
 category: Singlish
 ---
 
-"Jom" is used to invite people to do something.
-It's used similarly to "let's go".
+"Jom" is used to invite people to do something. It's used similarly to "let's
+go".
 
 ![Jom](@signs/merdeaf-jom.png)

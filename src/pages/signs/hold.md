@@ -13,9 +13,8 @@ This variation is for bigger objects, or a person.
 
 ## Variation 2
 
-Have one hand with the index finger pointing upwards,
-with the palm facing the side.
-Then, hold the index finger with all the fingers on the other hand.
+Have one hand with the index finger pointing upwards, with the palm facing the
+side. Then, hold the index finger with all the fingers on the other hand.
 
 ![Variation 2 of hold](@signs/merdeaf-hold-variation-2.png)
 

@@ -15,9 +15,8 @@ category: Vocabulary
 
 ## Variation 3
 
-Start with an open palm facing outwards on both hands
-and use your middle fingers to lift a box up,
-ending with the palm pointing upwards.
+Start with an open palm facing outwards on both hands and use your middle
+fingers to lift a box up, ending with the palm pointing upwards.
 
 It is also the exact same gesture as ["mild"](./mild).
 

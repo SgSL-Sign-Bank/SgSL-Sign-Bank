@@ -11,8 +11,8 @@ Use this variation to mean that something is full, like a bag or a cup.
 
 ![Variation 1 of full](@signs/full-variation-1.gif)
 
-The hand moves towards your body, not away from your body.
-Moving the hand away means ["enough"](./enough.md) instead.
+The hand moves towards your body, not away from your body. Moving the hand away
+means ["enough"](./enough.md) instead.
 
 ## Variation 2
 

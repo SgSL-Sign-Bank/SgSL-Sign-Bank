@@ -10,11 +10,11 @@ Similar to English, every sentence consists of a subject and an object.
 
 - The subject is the person who is doing something (verb or action).
 
-  The main focus of the sentence can either be a person, place, thing, idea,
-  or activity.
+  The main focus of the sentence can either be a person, place, thing, idea, or
+  activity.
 
-- Indirect or direct object is the person
-  who is receiving something (verb or action).
+- Indirect or direct object is the person who is receiving something (verb or
+  action).
 
 - Oblique object is the place where the action occurs at.
 
@@ -30,13 +30,12 @@ For example:
 
 ## Question structure
 
-- The language is very people-centric,
-  so questions usually start with the person,
-  rather than the 6W (who, what, where, when, why, which)
-  and 1H (how) in English.
+- The language is very people-centric, so questions usually start with the
+  person, rather than the 6W (who, what, where, when, why, which) and 1H (how)
+  in English.
 - The 6W and 1H are usually placed at the end of a sentence.
-- Always end a question by doing the gesture for ["you"](../signs/you),
-  to indicate that you are waiting for a reply.
+- Always end a question by doing the gesture for ["you"](../signs/you), to
+  indicate that you are waiting for a reply.
 
 ## Sentence structure
 
@@ -44,17 +43,16 @@ For example:
 
 - Time usually comes first, before everything else.
 - The word "will" goes at the end of a sentence.
-- When talking about multiple items,
-  pick a location for each item and name the locations after the item.
+- When talking about multiple items, pick a location for each item and name the
+  locations after the item.
 - Make use of the locations of the items when signing.
-- Pick the locations in a left-to-right or right-to-left order based on
-  your dominant hand.
-- Try to minimise the use of adverbs of time and prepositions
-  (they are sometimes still needed),
-  as sign language has 3 dimensions to express time and location,
-  unlike most spoken languages like English,
-  which only have a single linear dimension to express both time and location,
-  so prepositions and adverbs of time are necessary to order items.
+- Pick the locations in a left-to-right or right-to-left order based on your
+  dominant hand.
+- Try to minimise the use of adverbs of time and prepositions (they are
+  sometimes still needed), as sign language has 3 dimensions to express time and
+  location, unlike most spoken languages like English, which only have a single
+  linear dimension to express both time and location, so prepositions and
+  adverbs of time are necessary to order items.
 
 ## Verb types
 
@@ -64,8 +62,8 @@ For example:
 
 2. Indicating or directional verbs
 
-   The signer is able to show the directional verb toward the second person
-   or the third person and vice versa, and between the second and third person.
+   The signer is able to show the directional verb toward the second person or
+   the third person and vice versa, and between the second and third person.
 
 3. Spatial verbs
 
@@ -97,38 +95,36 @@ Each signed word is made up of 5 parameters:
 4. Palm orientation
 5. Non-manual signals or markers
 
-Each of the 5 parameters has its set of primes,
-which are the smallest units of sign language.
+Each of the 5 parameters has its set of primes, which are the smallest units of
+sign language.
 
-Hence, there is a need to be precise in signing as what we sign
-can affect meaning, which has an impact on communication,
-as well as comprehension.
+Hence, there is a need to be precise in signing as what we sign can affect
+meaning, which has an impact on communication, as well as comprehension.
 
 ### Hand-shape
 
 This refers to the shape of the hand forming the sign.
 
-The main hand-shape seen in all sign languages with some variations are
-"A", "S", "1", "5", "B", "O" and "C" hand-shapes.
+The main hand-shape seen in all sign languages with some variations are "A",
+"S", "1", "5", "B", "O" and "C" hand-shapes.
 
 For example, ["girl"](../signs/girl) and ["deaf"](../signs/deaf).
 
 ### Palm orientation
 
-This refers to the orientation of the hand or palm. It is essentially
-where your palm is facing during a sign.
+This refers to the orientation of the hand or palm. It is essentially where your
+palm is facing during a sign.
 
 For example, ["name"](../signs/name) and ["sit"](../signs/sit).
 
 ### Location
 
-This refers to where the sign makes contact on your body
-or where you hand is located, like on your forehead, in the air,
-on your chest, etc. Location itself doesn't have an independent meaning.
-It is part of the sign.
+This refers to where the sign makes contact on your body or where you hand is
+located, like on your forehead, in the air, on your chest, etc. Location itself
+doesn't have an independent meaning. It is part of the sign.
 
-For example, ["mother"](../signs/mother) and ["father"](../signs/father),
-or ["summer"](../signs/summer) and ["dry"](../signs/dry).
+For example, ["mother"](../signs/mother) and ["father"](../signs/father), or
+["summer"](../signs/summer) and ["dry"](../signs/dry).
 
 ### Movement
 
@@ -139,26 +135,25 @@ For example, ["train"](../signs/train-noun) and ["sit"](../signs/sit).
 
 ### Facial expression
 
-This parameter is also known as non-manual markers. This can be the movement
-of your eyebrows, mouth, eye-gaze or body position.
+This parameter is also known as non-manual markers. This can be the movement of
+your eyebrows, mouth, eye-gaze or body position.
 
 For example, a question versus a rhetorical question.
 
-Non-manual signals, or NMS for short, are grammatical and semantic features
-that do not involve the hands. They include mouth morphemes, eye gazes,
-facial expressions, body shifting, and head tilting. They are also used to
-modify verbs, adjectives and other adverbs.
+Non-manual signals, or NMS for short, are grammatical and semantic features that
+do not involve the hands. They include mouth morphemes, eye gazes, facial
+expressions, body shifting, and head tilting. They are also used to modify
+verbs, adjectives and other adverbs.
 
-Non-manual signals also convey grammatical information in sentence types
-by including the usage of visual grammar, visual sequencing and agreements with
-the application of appropriate classifiers.
+Non-manual signals also convey grammatical information in sentence types by
+including the usage of visual grammar, visual sequencing and agreements with the
+application of appropriate classifiers.
 
-For example, if you are mad at someone, or about something,
-you may not have to use even one sign.
-**You can just show it using your facial expression**.
+For example, if you are mad at someone, or about something, you may not have to
+use even one sign. **You can just show it using your facial expression**.
 
-Alternatively, if someone asked you a "yes" or "no" question,
-you could simply nod or shake your head accordingly.
+Alternatively, if someone asked you a "yes" or "no" question, you could simply
+nod or shake your head accordingly.
 
 #### Declarative statement
 
@@ -185,14 +180,14 @@ Examples:
 
 #### Wh-word questions
 
-Wh-word questions are questions that cannot be answered with just
-yes or no responses and are usually used with interrogative signs like
+Wh-word questions are questions that cannot be answered with just yes or no
+responses and are usually used with interrogative signs like
 ["what"](../signs/what), ["who"](../signs/who), ["when"](../signs/when),
-["where"](../signs/where), ["which"](../signs/which), ["why"](../signs/why),
-and ["how"](../signs/how).
+["where"](../signs/where), ["which"](../signs/which), ["why"](../signs/why), and
+["how"](../signs/how).
 
-Wh-words usually appear at the end of a sentence,
-but they can also appear at the beginning of a sentence.
+Wh-words usually appear at the end of a sentence, but they can also appear at
+the beginning of a sentence.
 
 Non-manual signals for wh-word questions are:
 
@@ -250,9 +245,9 @@ Examples:
 
 #### Rhetorical questions
 
-Rhetorical questions are not real questions since the addressee
-is not expected to respond, but rather provides a way for the signer
-to introduce and draw attention to the information he or she will supply.
+Rhetorical questions are not real questions since the addressee is not expected
+to respond, but rather provides a way for the signer to introduce and draw
+attention to the information he or she will supply.
 
 Non-manual signals for rhetorical questions are:
 
@@ -261,9 +256,9 @@ Non-manual signals for rhetorical questions are:
 
 A wh-word question usually occurs with this type of question.
 
-In other words, rhetorical questions differ from wh-word questions
-in that the eyebrows are **raised for rhetorical questions**
-but **furrowed for wh-word questions**.
+In other words, rhetorical questions differ from wh-word questions in that the
+eyebrows are **raised for rhetorical questions** but **furrowed for wh-word
+questions**.
 
 Examples:
 
@@ -291,8 +286,8 @@ Non-manual signals for negation statements are:
 - Sometimes, the body is tilted backwards.
 - Sometimes, signs like ["not"](../signs/not), ["no"](../signs/no),
   ["none"](../signs/none), ["cannot"](../signs/cannot),
-  ["do not"](../signs/do-not), ["don't want"](../signs/dont-want.md),
-  etc. are added
+  ["do not"](../signs/do-not), ["don't want"](../signs/dont-want.md), etc. are
+  added
 
 Examples:
 
@@ -314,9 +309,9 @@ Examples:
 
 #### Assertion statement
 
-In this statement, the grammatical sign is signed as "nod" for a single nod,
-or "nodding" for repeated nods. It can either be used to show agreement,
-or answer affirmatively.
+In this statement, the grammatical sign is signed as "nod" for a single nod, or
+"nodding" for repeated nods. It can either be used to show agreement, or answer
+affirmatively.
 
 Non-manual signals for assertion statements are:
 
@@ -342,9 +337,9 @@ Examples:
 
 #### Command statement
 
-Command statements are commands with signals such as stressing
-or emphasising the verb in the sentence. The facial grammar is usually
-accompanied by either pursing of the mouth, or having an intense glare.
+Command statements are commands with signals such as stressing or emphasising
+the verb in the sentence. The facial grammar is usually accompanied by either
+pursing of the mouth, or having an intense glare.
 
 Non-manual signals for command statements are:
 
@@ -359,8 +354,8 @@ Examples:
 
 - Shut up!
   1. (Zip mouth with the "G" hand)
-  2. (Cross two "H" signs with the palm out, and place it over the
-     other person's mouth)
+  2. (Cross two "H" signs with the palm out, and place it over the other
+     person's mouth)
 
 - Stop talking!
 
@@ -372,11 +367,11 @@ Examples:
 
 #### Conditionals
 
-Conditionals express a condition that the topic currently
-being discussed depends on.
+Conditionals express a condition that the topic currently being discussed
+depends on.
 
-An example of a conditional sentence in English is:
-"If it rains tomorrow, the game will be cancelled."
+An example of a conditional sentence in English is: "If it rains tomorrow, the
+game will be cancelled."
 
 Non-manual signals for conditional sentences are:
 

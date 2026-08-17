@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: ["@signs/home.gif"]
 ---
 
-Same motion as ["home"](./home), which is shown below,
-but use the "U" hand sign instead of the "O" hand sign.
+Same motion as ["home"](./home), which is shown below, but use the "U" hand sign
+instead of the "O" hand sign.
 
 ![Home](@signs/home.gif)

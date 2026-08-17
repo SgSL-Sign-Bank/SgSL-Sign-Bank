@@ -11,8 +11,7 @@ category: Vocabulary
 
 ## Variation 2
 
-Same motion as ["soon"](./soon),
-which is shown below,
-but instead of the flat palm, use the "S" hand sign instead.
+Same motion as ["soon"](./soon), which is shown below, but instead of the flat
+palm, use the "S" hand sign instead.
 
 ![Soon](@signs/soon.gif)

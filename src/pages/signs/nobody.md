@@ -5,8 +5,8 @@ category: Vocabulary
 dependentImages: ["@signs/no.gif", "@signs/body.gif"]
 ---
 
-Do the gesture for ["no"](./no), which is the first image below
-then do the gesture for ["body"](./body), which is the second image below.
+Do the gesture for ["no"](./no), which is the first image below then do the
+gesture for ["body"](./body), which is the second image below.
 
 ![No](@signs/no.gif)
 

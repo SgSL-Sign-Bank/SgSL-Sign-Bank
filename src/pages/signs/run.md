@@ -15,14 +15,11 @@ Move your hands like you are running.
 
 ## Variation 3
 
-Make two "L" hand signs and touch the thumbs together.
-Then curl and uncurl the index finger of both hands
-while moving your hands forward.
+Make two "L" hand signs and touch the thumbs together. Then curl and uncurl the
+index finger of both hands while moving your hands forward.
 
-Another way to think of it is to do
-the gesture for ["continue"](./continue),
-which is shown below,
-but curl and uncurl the index fingers of both hands
-while moving your hands forward.
+Another way to think of it is to do the gesture for ["continue"](./continue),
+which is shown below, but curl and uncurl the index fingers of both hands while
+moving your hands forward.
 
 ![Continue](@signs/continue.gif)

@@ -11,7 +11,7 @@ category: Places
 
 ## Variation 2
 
-This variation is outdated and can be considered offensive,
-so use the [first variation](#variation-1) instead.
+This variation is outdated and can be considered offensive, so use the
+[first variation](#variation-1) instead.
 
 ![Variation 2 of Africa](@signs/africa-variation-2.gif)

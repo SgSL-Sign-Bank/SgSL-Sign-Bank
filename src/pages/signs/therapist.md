@@ -5,10 +5,9 @@ category: Vocabulary
 dependentImages: ["@signs/therapy.gif", "@signs/person-variation-1.gif"]
 ---
 
-Do the gesture for ["therapy"](./therapy),
-which is the first image below,
-followed by the [agent gesture](../resources/definitions#agent-gesture),
-which is the second image below.
+Do the gesture for ["therapy"](./therapy), which is the first image below,
+followed by the [agent gesture](../resources/definitions#agent-gesture), which
+is the second image below.
 
 ![Therapy](@signs/therapy.gif)
 

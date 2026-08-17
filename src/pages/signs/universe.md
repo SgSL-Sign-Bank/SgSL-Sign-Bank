@@ -6,7 +6,7 @@ category: Vocabulary
 family: All
 ---
 
-Same motion as ["all"](./all),
-but with a "U" hand sign instead of the open palm.
+Same motion as ["all"](./all), but with a "U" hand sign instead of the open
+palm.
 
 ![Universe](@signs/universe.gif)

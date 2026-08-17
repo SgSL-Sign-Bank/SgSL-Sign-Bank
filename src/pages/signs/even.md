@@ -5,10 +5,8 @@ category: Vocabulary
 dependentImages: ["@signs/squirrel.gif"]
 ---
 
-Do the gesture for ["squirrel"](./squirrel),
-which is shown below,
-but leave your hands further apart.
-Then, straighten the index and middle fingers on both hands
-and touch the tips together.
+Do the gesture for ["squirrel"](./squirrel), which is shown below, but leave
+your hands further apart. Then, straighten the index and middle fingers on both
+hands and touch the tips together.
 
 ![Squirrel](@signs/squirrel.gif)

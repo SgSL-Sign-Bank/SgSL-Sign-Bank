@@ -6,7 +6,7 @@ category: Vocabulary
 family: Culture
 ---
 
-Same motion as ["culture"](./culture),
-but use the "S" hand sign instead of the "C" hand sign.
+Same motion as ["culture"](./culture), but use the "S" hand sign instead of the
+"C" hand sign.
 
 ![Social](@signs/social.gif)

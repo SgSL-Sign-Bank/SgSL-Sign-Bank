@@ -5,8 +5,8 @@ image: "@signs/sorry.gif"
 category: Vocabulary
 ---
 
-Same motion as ["please"](./please),
-but with the "S" hand sign, or a closed fist.
+Same motion as ["please"](./please), but with the "S" hand sign, or a closed
+fist.
 
 ![Sorry](@signs/sorry.gif)
 

@@ -16,6 +16,5 @@ category: Vocabulary
 ## Variation 3
 
 Same motion as the second variation of ["cockroach"](./cockroach#variation-2),
-but remove the other hand entirely
-and close the walking palm more tightly to
+but remove the other hand entirely and close the walking palm more tightly to
 better mimic the movement of a mouse.

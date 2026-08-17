@@ -6,8 +6,7 @@ category: Vocabulary
 family: Allow
 ---
 
-Same motion as ["allow"](./allow),
-but use the "O" hand sign before transitioning to the "P"
-hand sign instead of the open palm.
+Same motion as ["allow"](./allow), but use the "O" hand sign before
+transitioning to the "P" hand sign instead of the open palm.
 
 ![Opportunity](@signs/opportunity.gif)

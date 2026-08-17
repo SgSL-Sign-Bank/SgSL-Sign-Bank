@@ -6,8 +6,7 @@ family: Allow
 dependentImages: ["@signs/allow.gif"]
 ---
 
-Same motion as ["allow"](./allow),
-which is shown below,
-but use the "L" hand sign instead of the open palm.
+Same motion as ["allow"](./allow), which is shown below, but use the "L" hand
+sign instead of the open palm.
 
 ![Allow](@signs/allow.gif)

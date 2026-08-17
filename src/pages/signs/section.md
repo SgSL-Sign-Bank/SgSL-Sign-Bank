@@ -5,8 +5,7 @@ category: Vocabulary
 dependentImages: ["@signs/part.gif"]
 ---
 
-Same motion as ["part"](./part),
-which is shown below,
-but use the "S" hand sign instead of the "P" hand sign.
+Same motion as ["part"](./part), which is shown below, but use the "S" hand sign
+instead of the "P" hand sign.
 
 ![Part](@signs/part.gif)

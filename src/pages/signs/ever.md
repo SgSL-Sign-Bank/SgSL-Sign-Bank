@@ -13,7 +13,7 @@ Exactly the same gesture as ["always"](./always).
 
 ## Variation 2
 
-Same motion as ["Monday"](./monday), which is shown below,
-but instead of the "M" hand sign, do the "E" hand sign.
+Same motion as ["Monday"](./monday), which is shown below, but instead of the
+"M" hand sign, do the "E" hand sign.
 
 ![Monday](@signs/monday.gif)

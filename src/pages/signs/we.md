@@ -13,8 +13,7 @@ This variation is used to refer to a group of people.
 
 ## Variation 2
 
-Make the "P" hand sign,
-but rotate it such that the palm is facing upwards,
-then move it inwards and outwards repeatedly.
+Make the "P" hand sign, but rotate it such that the palm is facing upwards, then
+move it inwards and outwards repeatedly.
 
 This variation is used to refer to two people, like you and your friend.

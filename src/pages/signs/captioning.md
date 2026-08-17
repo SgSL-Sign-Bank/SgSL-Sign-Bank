@@ -11,10 +11,8 @@ category: Vocabulary
 
 ## Variation 2
 
-Make the hand shape for "tough".
-Put the curled fingers that form the "hook" together,
-with the flat part of the "hook" touching each other,
-while making sure the back of the palm faces forward.
-Then, move both hands apart
-and uncurl the curled fingers that form the "hook",
-while also separating the index and middle fingers.
+Make the hand shape for "tough". Put the curled fingers that form the "hook"
+together, with the flat part of the "hook" touching each other, while making
+sure the back of the palm faces forward. Then, move both hands apart and uncurl
+the curled fingers that form the "hook", while also separating the index and
+middle fingers.

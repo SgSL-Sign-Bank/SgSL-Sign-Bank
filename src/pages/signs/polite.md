@@ -6,8 +6,7 @@ category: Vocabulary
 family: Fine
 ---
 
-Similar motion to ["fine (adjective)"](./fine-adjective),
-but the hand moves inwards, towards the chest, instead of outwards,
-and do it twice.
+Similar motion to ["fine (adjective)"](./fine-adjective), but the hand moves
+inwards, towards the chest, instead of outwards, and do it twice.
 
 ![Polite](@signs/polite.gif)

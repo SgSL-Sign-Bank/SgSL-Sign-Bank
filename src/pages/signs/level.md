@@ -5,10 +5,8 @@ category: Vocabulary
 dependentImages: ["@signs/language.gif"]
 ---
 
-Similar motion to ["language"](./language),
-which is shown below,
-but don't wiggle your fingers,
-and the index and thumb of the "L" hand sign
-should remain horizontal throughout the motion.
+Similar motion to ["language"](./language), which is shown below, but don't
+wiggle your fingers, and the index and thumb of the "L" hand sign should remain
+horizontal throughout the motion.
 
 ![Language](@signs/language.gif)

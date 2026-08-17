@@ -11,7 +11,6 @@ category: Vocabulary
 
 ## Variation 2
 
-Pretend you are sleeping on the palm of one hand.
-The other hand draws circles using the "H" hand sign
-behind the back of the hand you're sleeping on,
-with the fingers of the "H" hand sign pointing forward.
+Pretend you are sleeping on the palm of one hand. The other hand draws circles
+using the "H" hand sign behind the back of the hand you're sleeping on, with the
+fingers of the "H" hand sign pointing forward.

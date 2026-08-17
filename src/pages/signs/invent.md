@@ -11,5 +11,5 @@ category: Vocabulary
 
 ## Variation 2
 
-Same as the [first variation](#variation-1),
-but place your hand at the middle of your forehead instead of your temple.
+Same as the [first variation](#variation-1), but place your hand at the middle
+of your forehead instead of your temple.

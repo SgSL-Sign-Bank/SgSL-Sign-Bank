@@ -6,7 +6,7 @@ category: Vocabulary
 family: Language
 ---
 
-Same motion as ["language"](./language), which is shown below,
-but use the "F" hand sign instead of the "L" hand sign.
+Same motion as ["language"](./language), which is shown below, but use the "F"
+hand sign instead of the "L" hand sign.
 
 ![Sentence](@signs/sentence.gif)

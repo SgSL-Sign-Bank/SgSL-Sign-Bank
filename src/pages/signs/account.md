@@ -5,7 +5,6 @@ category: Vocabulary
 dependentImages: ["@signs/count.gif"]
 ---
 
-Same motion as ["count"](./count),
-which is shown below, but do it twice.
+Same motion as ["count"](./count), which is shown below, but do it twice.
 
 ![Count](@signs/count.gif)

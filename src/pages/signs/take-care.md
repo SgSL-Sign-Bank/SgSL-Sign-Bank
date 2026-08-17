@@ -15,8 +15,7 @@ Finger spell "TC".
 
 ## Variation 2
 
-Do the gesture for ["take"](./take),
-then followed by ["care"](./care),
-which is shown below.
+Do the gesture for ["take"](./take), then followed by ["care"](./care), which is
+shown below.
 
 ![Care](@signs/care.gif)

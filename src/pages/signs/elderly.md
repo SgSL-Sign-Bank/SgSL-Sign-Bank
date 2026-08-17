@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: ["@signs/old.gif"]
 ---
 
-Same motion as ["old"](./old), which is shown below,
-but with the "E" hand sign instead of the "O" hand sign.
+Same motion as ["old"](./old), which is shown below, but with the "E" hand sign
+instead of the "O" hand sign.
 
 ![Old](@signs/old.gif)

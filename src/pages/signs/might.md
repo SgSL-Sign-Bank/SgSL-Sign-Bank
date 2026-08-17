@@ -8,5 +8,5 @@ family: Balance
 
 ![Might](@signs/might.gif)
 
-This sign is very similar to the one for ["balance"](./balance),
-but the palm is facing up instead of down.
+This sign is very similar to the one for ["balance"](./balance), but the palm is
+facing up instead of down.

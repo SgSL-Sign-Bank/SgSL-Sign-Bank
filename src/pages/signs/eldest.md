@@ -5,7 +5,6 @@ image: "@signs/eldest.gif"
 category: Vocabulary
 ---
 
-Do the gesture for ["old"](./old),
-followed by the gesture for ["most"](./most).
+Do the gesture for ["old"](./old), followed by the gesture for ["most"](./most).
 
 ![Eldest](@signs/eldest.gif)

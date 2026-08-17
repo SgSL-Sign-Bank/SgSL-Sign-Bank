@@ -5,7 +5,7 @@ image: "@signs/psychology.gif"
 category: Vocabulary
 ---
 
-Do the gesture for ["psychology"](./psychology),
-followed by the ["agent-gesture"](../resources/definitions#agent-gesture).
+Do the gesture for ["psychology"](./psychology), followed by the
+["agent-gesture"](../resources/definitions#agent-gesture).
 
 ![Psychologist](@signs/psychologist.gif)

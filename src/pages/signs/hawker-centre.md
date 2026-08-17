@@ -5,7 +5,7 @@ image: "@signs/hawker-centre.gif"
 category: Places
 ---
 
-Do the gesture for ["hawker"](./hawker),
-followed by the gesture for ["centre"](./centre).
+Do the gesture for ["hawker"](./hawker), followed by the gesture for
+["centre"](./centre).
 
 ![Hawker centre](@signs/hawker-centre.gif)

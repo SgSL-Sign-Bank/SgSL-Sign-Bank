@@ -5,7 +5,6 @@ image: "@signs/blue.gif"
 category: Vocabulary
 ---
 
-Same motion as ["yellow"](./yellow),
-but with a "B" hand sign.
+Same motion as ["yellow"](./yellow), but with a "B" hand sign.
 
 ![Blue](@signs/blue.gif)

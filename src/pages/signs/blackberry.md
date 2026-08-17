@@ -5,11 +5,9 @@ category: Fruits
 dependentImages: ["@signs/black-variation-1.gif", "@signs/berry.gif"]
 ---
 
-Do the gesture for the first variation of
-["black"](./black#variation-1),
-which is the first image below,
-then do the gesture for ["berry"](./berry),
-which is the second image below.
+Do the gesture for the first variation of ["black"](./black#variation-1), which
+is the first image below, then do the gesture for ["berry"](./berry), which is
+the second image below.
 
 ![Black](@signs/black-variation-1.gif)
 

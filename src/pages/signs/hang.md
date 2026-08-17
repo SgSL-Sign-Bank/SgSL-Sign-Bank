@@ -27,14 +27,14 @@ This variation is used to describe hanging clothes on a hanger.
 
 This variation is used to describe hanging up clothes.
 
-Make the "X" hand sign with both hands, with the palm facing forward,
-then pretend to hang the tip of the "X" on a bar.
+Make the "X" hand sign with both hands, with the palm facing forward, then
+pretend to hang the tip of the "X" on a bar.
 
 ## Variation 5
 
 This variation is used to describe a criminal being hanged as a punishment.
 
-Make the "okay" hand sign with the fingers pointing forward
-to signify the noose. The other hand makes the "Y" hand sign with the thumb
-pointing up to signify the body. Place the thumb of the "Y" into the hole
-in the "okay" hand sign, then move the "Y" hand sign down.
+Make the "okay" hand sign with the fingers pointing forward to signify the
+noose. The other hand makes the "Y" hand sign with the thumb pointing up to
+signify the body. Place the thumb of the "Y" into the hole in the "okay" hand
+sign, then move the "Y" hand sign down.

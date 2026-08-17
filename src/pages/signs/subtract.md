@@ -17,5 +17,4 @@ Exactly the same gesture as ["deduct"](./deduct).
 
 ## Variation 3
 
-Show the minus symbol,
-which is just a line, with the index finger.
+Show the minus symbol, which is just a line, with the index finger.

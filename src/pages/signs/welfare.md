@@ -6,7 +6,7 @@ family: Help
 dependentImages: ["@signs/help.gif"]
 ---
 
-Same motion as ["help"](./help),
-but use the "W" hand sign instead of the thumbs up hand sign.
+Same motion as ["help"](./help), but use the "W" hand sign instead of the thumbs
+up hand sign.
 
 ![Help](@signs/help.gif)

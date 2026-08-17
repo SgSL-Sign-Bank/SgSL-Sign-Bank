@@ -5,10 +5,8 @@ category: Fruits
 dependentImages: ["@signs/blue.gif", "@signs/berry.gif"]
 ---
 
-Do the gesture for ["blue"](./blue),
-which is the first image below,
-then do the gesture for ["berry"](./berry),
-which is the second image below.
+Do the gesture for ["blue"](./blue), which is the first image below, then do the
+gesture for ["berry"](./berry), which is the second image below.
 
 ![Blue](@signs/blue.gif)
 

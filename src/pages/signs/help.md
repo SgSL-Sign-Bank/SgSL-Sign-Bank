@@ -9,5 +9,5 @@ category: Vocabulary
 
 ![Merdeaf version](@signs/merdeaf-help.png)
 
-Move your thumb towards the person you want to help,
-towards yourself if you want other people to help you.
+Move your thumb towards the person you want to help, towards yourself if you
+want other people to help you.

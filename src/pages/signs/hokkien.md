@@ -4,5 +4,5 @@ title: Hokkien
 category: Vocabulary
 ---
 
-Do the "8" hand sign with the palm facing down,
-then put the index finger on your nose.
+Do the "8" hand sign with the palm facing down, then put the index finger on
+your nose.

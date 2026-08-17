@@ -11,14 +11,12 @@ category: Fruits
 
 ## Variation 2
 
-Do the hand sign for "S",
-then do the gesture for ["berry"](./berry),
-which is shown below.
+Do the hand sign for "S", then do the gesture for ["berry"](./berry), which is
+shown below.
 
 ![Berry](@signs/berry.gif)
 
 ## Variation 3
 
-Make the "F" hand sign with one hand
-and place the thumb at the side of your lips.
-Then move it outwards and upwards.
+Make the "F" hand sign with one hand and place the thumb at the side of your
+lips. Then move it outwards and upwards.

@@ -5,8 +5,7 @@ image: "@signs/need.gif"
 category: Vocabulary
 ---
 
-If the gesture is used to sign "must",
-it should be bigger and more forceful
+If the gesture is used to sign "must", it should be bigger and more forceful
 than the gesture shown below.
 
 ![Need](@signs/need.gif)

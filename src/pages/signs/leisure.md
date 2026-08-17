@@ -11,8 +11,8 @@ family:
 
 ## Variation 1
 
-Same motion as ["enjoy"](./enjoy),
-but use the "L" hand sign instead of the palm.
+Same motion as ["enjoy"](./enjoy), but use the "L" hand sign instead of the
+palm.
 
 ![Variation 1 of leisure](@signs/leisure-variation-1.gif)
 

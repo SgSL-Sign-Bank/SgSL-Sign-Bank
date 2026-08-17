@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: ["@signs/smart.gif"]
 ---
 
-Same motion as ["smart"](./smart), which is shown below,
-but do it once more and move it away from your head when you do it again.
+Same motion as ["smart"](./smart), which is shown below, but do it once more and
+move it away from your head when you do it again.
 
 ![Smart](@signs/smart.gif)

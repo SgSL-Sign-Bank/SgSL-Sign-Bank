@@ -5,11 +5,9 @@ category: Vocabulary
 dependentImages: ["@signs/face.gif", "@signs/sex-variation-1.gif"]
 ---
 
-Do the gesture for ["face"](./face),
-which is the first image below,
-followed by the gesture for ["sex"](./sex),
-which is the second image below.
-Strike a sexy pose when doing the gesture for ["sex"](./sex).
+Do the gesture for ["face"](./face), which is the first image below, followed by
+the gesture for ["sex"](./sex), which is the second image below. Strike a sexy
+pose when doing the gesture for ["sex"](./sex).
 
 ![Face](@signs/face.gif)
 

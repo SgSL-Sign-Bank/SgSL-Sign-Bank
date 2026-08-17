@@ -6,7 +6,7 @@ category: Vocabulary
 family: Draw
 ---
 
-Same motion as ["draw"](./draw),
-but use the "C" hand sign instead of the "I" hand sign.
+Same motion as ["draw"](./draw), but use the "C" hand sign instead of the "I"
+hand sign.
 
 ![Craft](@signs/craft.gif)

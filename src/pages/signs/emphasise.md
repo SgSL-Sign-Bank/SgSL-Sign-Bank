@@ -6,7 +6,7 @@ category: Vocabulary
 family: Emphasise
 ---
 
-Exactly the same gesture as
-the third variation of ["especially"](./especially#variation-3).
+Exactly the same gesture as the third variation of
+["especially"](./especially#variation-3).
 
 ![Emphasise](@signs/emphasise.gif)

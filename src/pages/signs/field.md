@@ -4,5 +4,4 @@ title: Field
 category: Vocabulary
 ---
 
-Same motion as ["ground"](./ground),
-but with the "F" hand sign instead.
+Same motion as ["ground"](./ground), but with the "F" hand sign instead.

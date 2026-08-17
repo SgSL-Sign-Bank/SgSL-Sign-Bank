@@ -15,9 +15,9 @@ category: Places
 
 ## Variation 3
 
-Do the gesture for "J", followed by showing a palm with fingers apart,
-facing inwards, then wiggling your fingers while moving it downwards,
-like the gesture for ["blood"](./blood),
-symbolising the iconic indoor waterfall in the middle of the mall.
+Do the gesture for "J", followed by showing a palm with fingers apart, facing
+inwards, then wiggling your fingers while moving it downwards, like the gesture
+for ["blood"](./blood), symbolising the iconic indoor waterfall in the middle of
+the mall.
 
 ![Variation 3 of Jewel](@signs/jewel-changi-airport-variation-3.gif)

@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: ["@signs/supper.gif"]
 ---
 
-Same motion as ["supper"](./supper), which is shown below,
-but with the "M" hand sign.
+Same motion as ["supper"](./supper), which is shown below, but with the "M" hand
+sign.
 
 ![Supper](@signs/supper.gif)

@@ -7,8 +7,8 @@ dependentImages: ["@signs/do-not.gif", "@signs/want.gif"]
 
 ## Variation 1
 
-Do the gesture for ["don't"](./do-not), which is the first image below,
-followed by ["want"](./want), which is the second image below.
+Do the gesture for ["don't"](./do-not), which is the first image below, followed
+by ["want"](./want), which is the second image below.
 
 ![Don't](@signs/do-not.gif)
 
@@ -16,5 +16,5 @@ followed by ["want"](./want), which is the second image below.
 
 ## Variation 2
 
-Make the "L" hand sign with one hand and
-move it up and down in front of your mouth.
+Make the "L" hand sign with one hand and move it up and down in front of your
+mouth.

@@ -9,5 +9,5 @@ family: School
 ![Scholarship](@signs/scholarship.gif)
 
 The gesture for this sign is pretty much exactly the same as
-["passport"](./passport), so the meaning of this sign
-likely depends on the context.
+["passport"](./passport), so the meaning of this sign likely depends on the
+context.

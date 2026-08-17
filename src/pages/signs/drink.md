@@ -5,10 +5,9 @@ image: "@signs/drink-variation-1.gif"
 category: Vocabulary
 ---
 
-Vary the duration of the sign to express different ways of drinking.
-A sip would be very short, with a mouth shape to take a sip,
-while a gulp would be pretty long and would end with the gesture for
-["swallow"](./swallow-food) at the end.
+Vary the duration of the sign to express different ways of drinking. A sip would
+be very short, with a mouth shape to take a sip, while a gulp would be pretty
+long and would end with the gesture for ["swallow"](./swallow-food) at the end.
 
 ## Variation 1
 

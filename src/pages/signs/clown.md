@@ -13,8 +13,7 @@ category: Vocabulary
 
 ## Variation 2
 
-Do the gesture for ["pig"](./pig),
-which is shown below,
-but shake your head from side to side.
+Do the gesture for ["pig"](./pig), which is shown below, but shake your head
+from side to side.
 
 ![Pig](@signs/pig.gif)

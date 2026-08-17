@@ -6,7 +6,7 @@ category: Vocabulary
 family: All
 ---
 
-Same motion as ["all"](./all),
-but with a "G" hand sign instead of the open palm.
+Same motion as ["all"](./all), but with a "G" hand sign instead of the open
+palm.
 
 ![Geography](@signs/geography.gif)

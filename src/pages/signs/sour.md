@@ -8,8 +8,8 @@ family: Serious
 
 ## Variation 1
 
-Exactly the same gesture as ["serious"](./serious),
-but have a facial expression of tasting something sour.
+Exactly the same gesture as ["serious"](./serious), but have a facial expression
+of tasting something sour.
 
 ![Variation 1 of sour](@signs/sour-variation-1.gif)
 

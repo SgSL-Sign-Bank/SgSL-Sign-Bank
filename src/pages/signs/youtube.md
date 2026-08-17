@@ -8,8 +8,8 @@ family: Period
 
 ## Variation 1
 
-Same motion as ["period"](./period-time),
-but use the "Y" hand sign instead of the "P" hand sign.
+Same motion as ["period"](./period-time), but use the "Y" hand sign instead of
+the "P" hand sign.
 
 ![Variation 1 of YouTube](@signs/youtube-variation-1.gif)
 

@@ -11,7 +11,7 @@ category: Vocabulary
 
 ## Variation 2
 
-Do the gesture for ["candle"](./candle), which is shown below,
-but move your hands in a circle.
+Do the gesture for ["candle"](./candle), which is shown below, but move your
+hands in a circle.
 
 ![Candle](@signs/candle.gif)

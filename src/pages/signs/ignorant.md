@@ -11,5 +11,5 @@ category: Vocabulary
 
 ## Variation 2
 
-Place the back of your palm on your forehead,
-with the palm facing outwards, then wiggle the fingers on that palm.
+Place the back of your palm on your forehead, with the palm facing outwards,
+then wiggle the fingers on that palm.

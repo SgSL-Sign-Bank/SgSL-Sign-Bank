@@ -6,7 +6,7 @@ dependentImages: ["@signs/million.gif"]
 family: Million
 ---
 
-Same motion as the ["million" gesture](./million), which is shown below,
-but with a "T" hand sign instead of a "M" hand sign.
+Same motion as the ["million" gesture](./million), which is shown below, but
+with a "T" hand sign instead of a "M" hand sign.
 
 ![A million](@signs/million.gif)

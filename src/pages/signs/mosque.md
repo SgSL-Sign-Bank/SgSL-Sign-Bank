@@ -5,7 +5,7 @@ category: Places
 dependentImages: ["@signs/church.gif"]
 ---
 
-Same motion as ["church"](./church), which is shown below,
-but with the "M" hand sign instead of the "C" hand sign.
+Same motion as ["church"](./church), which is shown below, but with the "M" hand
+sign instead of the "C" hand sign.
 
 ![Church](@signs/church.gif)

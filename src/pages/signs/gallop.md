@@ -11,10 +11,8 @@ category: Vocabulary
 
 ## Variation 2
 
-Same hand sign as the gesture for ["ride"](./ride),
-which is shown below,
-but move your hand up and down in a galloping motion
-instead of moving it forward in a straight line.
-Puff out your cheeks too when doing the gesture.
+Same hand sign as the gesture for ["ride"](./ride), which is shown below, but
+move your hand up and down in a galloping motion instead of moving it forward in
+a straight line. Puff out your cheeks too when doing the gesture.
 
 ![Ride](@signs/ride.gif)

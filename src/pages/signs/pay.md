@@ -8,9 +8,8 @@ family: Pay
 
 ## Variation 1
 
-Make an open palm with one hand and face it upwards.
-Form a "P" hand sign with the other hand
-and flick the middle finger outwards.
+Make an open palm with one hand and face it upwards. Form a "P" hand sign with
+the other hand and flick the middle finger outwards.
 
 ![Variation 1 of pay](@signs/pay-variation-1.gif)
 

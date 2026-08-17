@@ -11,9 +11,8 @@ category: Vocabulary
 
 ## Variation 2
 
-Use the ["I love you" hand sign](./i-love-you), which is shown below,
-and show it either flying off from your hand
-if you're departing from an airport,
-or landing on your hand if you're arriving at an airport.
+Use the ["I love you" hand sign](./i-love-you), which is shown below, and show
+it either flying off from your hand if you're departing from an airport, or
+landing on your hand if you're arriving at an airport.
 
 ![I love you](@signs/i-love-you.gif)

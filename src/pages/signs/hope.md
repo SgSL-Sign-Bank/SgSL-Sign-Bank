@@ -31,9 +31,8 @@ Exactly the same gesture as ["anticipate"](./anticipate).
 
 ## Variation 6
 
-Have both palms facing up, fingers facing forward
-and pointed 45 degrees upwards, and on the side of your body.
-One palm should be closer to your body than the other.
-Then close all of your fingers on both palms, forming two fists.
-Bring your hands slightly closer to your body
-as you close your fingers on both palms.
+Have both palms facing up, fingers facing forward and pointed 45 degrees
+upwards, and on the side of your body. One palm should be closer to your body
+than the other. Then close all of your fingers on both palms, forming two fists.
+Bring your hands slightly closer to your body as you close your fingers on both
+palms.

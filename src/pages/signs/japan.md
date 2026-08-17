@@ -13,6 +13,5 @@ category: Places
 
 ![Variation 2 of Japan](@signs/japan-variation-2.gif)
 
-Be careful with this variation,
-as it can be confused with the sign for ["underwear"](./underwear)
-due to the curve.
+Be careful with this variation, as it can be confused with the sign for
+["underwear"](./underwear) due to the curve.

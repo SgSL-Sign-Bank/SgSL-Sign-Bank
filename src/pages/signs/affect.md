@@ -6,7 +6,7 @@ family: Advise
 dependentImages: ["@signs/advise.gif"]
 ---
 
-Same motion as ["advise"](./advise), which is shown below,
-but use the "A" hand sign for the hand on top instead.
+Same motion as ["advise"](./advise), which is shown below, but use the "A" hand
+sign for the hand on top instead.
 
 ![Advise](@signs/advise.gif)

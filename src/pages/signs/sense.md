@@ -12,6 +12,5 @@ family: Touch
 
 ## Variation 2
 
-Same motion as the [first variation](#variation-1),
-but touch the middle of the side of your neck instead of
-your temple.
+Same motion as the [first variation](#variation-1), but touch the middle of the
+side of your neck instead of your temple.

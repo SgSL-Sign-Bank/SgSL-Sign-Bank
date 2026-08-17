@@ -11,5 +11,5 @@ category: Vocabulary
 
 ## Variation 2
 
-Hold up a hand with the palm facing the body and fingers pointing downwards
-and move it downwards.
+Hold up a hand with the palm facing the body and fingers pointing downwards and
+move it downwards.

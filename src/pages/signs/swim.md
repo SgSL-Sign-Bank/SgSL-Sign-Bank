@@ -7,6 +7,6 @@ category: Sports
 
 ![Swim](@signs/swim.gif)
 
-Show the action for the style of swimming.
-Most commonly, breaststroke is used, but freestyle,
-backstroke, and butterfly can also be used to refer the respective style.
+Show the action for the style of swimming. Most commonly, breaststroke is used,
+but freestyle, backstroke, and butterfly can also be used to refer the
+respective style.

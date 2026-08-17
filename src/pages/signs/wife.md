@@ -5,7 +5,6 @@ image: "@signs/wife.gif"
 category: Vocabulary
 ---
 
-Do the gesture for ["girl"](./girl),
-then do the gesture for ["marry"](./marry).
+Do the gesture for ["girl"](./girl), then do the gesture for ["marry"](./marry).
 
 ![Wife](@signs/wife.gif)

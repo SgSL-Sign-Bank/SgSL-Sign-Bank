@@ -11,5 +11,5 @@ category: Vocabulary
 
 ## Variation 2
 
-Same motion as the [first variation](#variation-1),
-but use the "L" hand sign instead of the open palm with fingers apart.
+Same motion as the [first variation](#variation-1), but use the "L" hand sign
+instead of the open palm with fingers apart.

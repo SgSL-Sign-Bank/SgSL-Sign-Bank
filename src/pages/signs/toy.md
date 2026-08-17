@@ -6,7 +6,7 @@ family: Party
 dependentImages: ["@signs/party.gif"]
 ---
 
-Same motion as ["party"](./party),
-but use the "T" hand sign instead of the "P" hand sign.
+Same motion as ["party"](./party), but use the "T" hand sign instead of the "P"
+hand sign.
 
 ![Party](@signs/party.gif)

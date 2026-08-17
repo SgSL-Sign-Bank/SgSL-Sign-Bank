@@ -13,5 +13,5 @@ The hand sign used below is the "G" hand sign.
 
 ## Variation 2
 
-Same motion as the [first variation](#variation-1),
-but use the "1" hand sign instead of the "G" hand sign.
+Same motion as the [first variation](#variation-1), but use the "1" hand sign
+instead of the "G" hand sign.

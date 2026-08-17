@@ -6,8 +6,8 @@ category: Vocabulary
 family: Answer
 ---
 
-Similar motion to ["answer"](./answer),
-but use the "R" hand sign instead of the index finger.
+Similar motion to ["answer"](./answer), but use the "R" hand sign instead of the
+index finger.
 
 ![Reply](@signs/reply.gif)
 

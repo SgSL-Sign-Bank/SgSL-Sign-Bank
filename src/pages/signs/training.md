@@ -5,7 +5,7 @@ image: "@signs/training.gif"
 category: Vocabulary
 ---
 
-Same motion as ["practice"](./practice),
-but with the "T" hand sign instead of the fist.
+Same motion as ["practice"](./practice), but with the "T" hand sign instead of
+the fist.
 
 ![Training](@signs/training.gif)

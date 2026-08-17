@@ -5,7 +5,6 @@ image: "@signs/actor-job.gif"
 category: Vocabulary
 ---
 
-Do the gesture for ["act"](./act-verb),
-then followed by ["person"](./person).
+Do the gesture for ["act"](./act-verb), then followed by ["person"](./person).
 
 ![Actor](@signs/actor-job.gif)

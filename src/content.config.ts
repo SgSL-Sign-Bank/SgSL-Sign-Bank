@@ -1,22 +1,23 @@
 // The content configuration for the site
 
-import { defineCollection } from "astro:content";
-import { z } from "astro/zod";
 import { glob } from "astro/loaders";
+import { z } from "astro/zod";
+import { defineCollection } from "astro:content";
 
 // The collection of signs
 const signs = defineCollection({
 	loader: glob({ pattern: "**/*.{md,mdx}", base: "./src/pages/signs" }),
-	schema: ({ image }) => z.object({
-		title: z.string().or(z.number()),
-		image: image().optional(),
-		category: z.string(),
-		family: z
-			.string()
-			.or(z.record(z.string(), z.string().or(z.null())))
-			.optional(),
-		dependentImages: z.array(image()).optional(),
-	}),
+	schema: ({ image }) =>
+		z.object({
+			title: z.string().or(z.number()),
+			image: image().optional(),
+			category: z.string(),
+			family: z
+				.string()
+				.or(z.record(z.string(), z.string().or(z.null())))
+				.optional(),
+			dependentImages: z.array(image()).optional(),
+		}),
 });
 
 // The collection of resources

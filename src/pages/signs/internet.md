@@ -12,6 +12,6 @@ family: Touch
 
 ## Variation 2
 
-Same hand sign for both hands as the [first variation](#variation-1),
-but keep one hand stationary, and rotate the other hand in a circle
-before touching the middle finger of the stationary hand.
+Same hand sign for both hands as the [first variation](#variation-1), but keep
+one hand stationary, and rotate the other hand in a circle before touching the
+middle finger of the stationary hand.

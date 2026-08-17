@@ -6,7 +6,6 @@ family: Correct
 dependentImages: ["@signs/correct.gif"]
 ---
 
-Same motion as ["correct"](./correct), which is shown below,
-but do it twice.
+Same motion as ["correct"](./correct), which is shown below, but do it twice.
 
 ![Correct](@signs/correct.gif)

@@ -6,7 +6,7 @@ category: Vocabulary
 family: All
 ---
 
-Same motion as ["all"](./all),
-but with a "T" hand sign instead of the open palm.
+Same motion as ["all"](./all), but with a "T" hand sign instead of the open
+palm.
 
 ![Type](@signs/type.gif)

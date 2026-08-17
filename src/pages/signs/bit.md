@@ -13,5 +13,5 @@ A bit as in a little bit.
 
 ## Variation 2
 
-Make the "W" hand sign with the palm facing upwards,
-then flick the pinky finger forward.
+Make the "W" hand sign with the palm facing upwards, then flick the pinky finger
+forward.

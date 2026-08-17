@@ -7,8 +7,8 @@ category: Vocabulary
 
 ## Variation 1
 
-Same motion as ["stream (as in water stream)"](./stream-water),
-but use the "R" hand sign instead of the open palm.
+Same motion as ["stream (as in water stream)"](./stream-water), but use the "R"
+hand sign instead of the open palm.
 
 ![Variation 1 of river](@signs/river-variation-1.gif)
 

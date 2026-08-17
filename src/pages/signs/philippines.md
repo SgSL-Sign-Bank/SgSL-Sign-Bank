@@ -6,8 +6,8 @@ category: Places
 family: Island
 ---
 
-Same motion as ["island"](./island),
-but use the "P" hand sign instead of the "I" hand sign.
+Same motion as ["island"](./island), but use the "P" hand sign instead of the
+"I" hand sign.
 
 ![Philippines](@signs/philippines.gif)
 

@@ -15,6 +15,6 @@ Exactly the same gesture as ["near"](./near).
 
 ## Variation 2 (Initialised version)
 
-Place a palm facing towards your body with fingers pointing to the side.
-Make the "C" hand sign with the other hand
-and use it to push the palm inwards, or further towards your body.
+Place a palm facing towards your body with fingers pointing to the side. Make
+the "C" hand sign with the other hand and use it to push the palm inwards, or
+further towards your body.

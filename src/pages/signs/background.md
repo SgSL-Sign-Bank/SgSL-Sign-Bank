@@ -19,7 +19,7 @@ category: Vocabulary
 
 ## Variation 4
 
-Make the ["1"](./1) hand sign with one hand, and make the ["5"](./5)
-hand sign with the other hand on the left side, palm facing inwards
-and the fingers pointing down. Then, move the ["5"](./5) hand to the right,
-behind the ["1"](./1) hand, wiggling your fingers throughout the motion.
+Make the ["1"](./1) hand sign with one hand, and make the ["5"](./5) hand sign
+with the other hand on the left side, palm facing inwards and the fingers
+pointing down. Then, move the ["5"](./5) hand to the right, behind the
+["1"](./1) hand, wiggling your fingers throughout the motion.

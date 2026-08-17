@@ -11,8 +11,7 @@ category: Vocabulary
 
 ## Variation 2
 
-Do the "I love you" hand sign but close the thumb to your
-middle and ring fingers and face your palm outwards.
-Then put that arm's elbow on the back of another palm,
-with the palm facing downwards
-and the arm held horizontally with the fingers pointing to the side.
+Do the "I love you" hand sign but close the thumb to your middle and ring
+fingers and face your palm outwards. Then put that arm's elbow on the back of
+another palm, with the palm facing downwards and the arm held horizontally with
+the fingers pointing to the side.

@@ -5,7 +5,6 @@ image: "@signs/merdeaf-see-you.png"
 category: Short expressions
 ---
 
-Do the gesture for ["see"](./see),
-followed by the gesture for ["you"](./you).
+Do the gesture for ["see"](./see), followed by the gesture for ["you"](./you).
 
 ![See you](@signs/merdeaf-see-you.png)

@@ -19,13 +19,10 @@ category: Vocabulary
 
 ## Variation 4
 
-Put your arm in the same position as the gesture for
-the first variation of ["autumn"](./autumn#variation-1),
-which is shown below.
-The other hand does the "V" hand sign
-and places both fingers on the elbow,
-with the palm facing the elbow.
-Then, it rotates upwards such that the palm faces upwards
-at the end of the gesture.
+Put your arm in the same position as the gesture for the first variation of
+["autumn"](./autumn#variation-1), which is shown below. The other hand does the
+"V" hand sign and places both fingers on the elbow, with the palm facing the
+elbow. Then, it rotates upwards such that the palm faces upwards at the end of
+the gesture.
 
 ![Variation 1 of autumn](@signs/autumn-variation-1.gif)

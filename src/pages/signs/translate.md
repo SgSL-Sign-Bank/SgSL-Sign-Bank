@@ -12,6 +12,6 @@ dependentImages: ["@signs/change.gif"]
 
 ## Variation 2
 
-Same motion as the [first variation](#variation-1),
-but the two "T" hand signs transition to index fingers pointing to the side
-about halfway through the turning motion.
+Same motion as the [first variation](#variation-1), but the two "T" hand signs
+transition to index fingers pointing to the side about halfway through the
+turning motion.

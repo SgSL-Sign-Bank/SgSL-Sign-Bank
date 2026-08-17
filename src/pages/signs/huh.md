@@ -5,8 +5,7 @@ image: "@signs/merdeaf-huh.png"
 category: Singlish
 ---
 
-"Huh" is used to usually express confusion,
-but can also be used to mean "oh".
+"Huh" is used to usually express confusion, but can also be used to mean "oh".
 
 Finger spell "huh".
 

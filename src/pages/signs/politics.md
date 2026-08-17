@@ -6,7 +6,7 @@ category: Vocabulary
 family: Government
 ---
 
-Same motion as ["government"](./government),
-but use the "P" hand sign instead of the "G" hand sign.
+Same motion as ["government"](./government), but use the "P" hand sign instead
+of the "G" hand sign.
 
 ![Politics](@signs/politics.gif)

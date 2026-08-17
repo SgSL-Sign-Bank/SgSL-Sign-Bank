@@ -11,6 +11,5 @@ category: Vocabulary
 
 ## Variation 2
 
-Same motion as the [first variation](#variation-1),
-but open and close the all the fingers
-instead of just the thumb, the index and middle finger.
+Same motion as the [first variation](#variation-1), but open and close the all
+the fingers instead of just the thumb, the index and middle finger.

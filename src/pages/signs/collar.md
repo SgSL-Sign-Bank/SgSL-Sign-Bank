@@ -11,5 +11,5 @@ category: Clothing
 
 ## Variation 2
 
-Same motion as the first variation,
-but use the index finger only instead of using the "G" hand sign.
+Same motion as the first variation, but use the index finger only instead of
+using the "G" hand sign.

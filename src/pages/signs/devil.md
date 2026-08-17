@@ -5,7 +5,6 @@ image: "@signs/devil.gif"
 category: Vocabulary
 ---
 
-Same motion as ["naughty"](./naughty),
-but do the gesture with both hands.
+Same motion as ["naughty"](./naughty), but do the gesture with both hands.
 
 ![Devil](@signs/devil.gif)

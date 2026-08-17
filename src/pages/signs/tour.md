@@ -11,13 +11,12 @@ category: Vocabulary
 
 ## Variation 2
 
-Same hand sign as the gesture for ["word"](./word),
-which is shown below, but on the hand that has the index finger and thumb
-extended, have them be further apart. Then, move the same hand outwards,
-while slowly closing the index finger and thumb
-until they are touching each other.
+Same hand sign as the gesture for ["word"](./word), which is shown below, but on
+the hand that has the index finger and thumb extended, have them be further
+apart. Then, move the same hand outwards, while slowly closing the index finger
+and thumb until they are touching each other.
 
-The idea behind the sign is to look like a small flag,
-which are usually held by tour guides.
+The idea behind the sign is to look like a small flag, which are usually held by
+tour guides.
 
 ![Word](@signs/word.gif)

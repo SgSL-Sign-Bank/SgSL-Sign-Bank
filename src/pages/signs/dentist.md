@@ -11,6 +11,6 @@ category: Vocabulary
 
 ## Variation 2
 
-Similar motion to the [first variation](#variation-1),
-but instead of touching the side of the lips twice,
-pull the "D" hand sign out once, like pulling a tooth out.
+Similar motion to the [first variation](#variation-1), but instead of touching
+the side of the lips twice, pull the "D" hand sign out once, like pulling a
+tooth out.

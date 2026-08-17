@@ -5,10 +5,9 @@ image: "@signs/orchard-place.gif"
 category: Places
 ---
 
-Do the hand sign for ["Orchard (place)"](./orchard-place),
-which is the first image below,
-then do the hand sign for the first variation of ["road"](./road#variation-1),
-which is the second image below.
+Do the hand sign for ["Orchard (place)"](./orchard-place), which is the first
+image below, then do the hand sign for the first variation of
+["road"](./road#variation-1), which is the second image below.
 
 ![Orchard](@signs/orchard-place.gif)
 

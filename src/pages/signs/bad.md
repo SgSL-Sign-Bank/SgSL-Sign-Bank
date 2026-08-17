@@ -15,9 +15,8 @@ category: Vocabulary
 
 ## Variation 3
 
-Similar motion to the first variation of
-the ["if" hand sign](./if#variation-1),
-which is shown below,
-but put the hand in front of your body instead of beside your eye.
+Similar motion to the first variation of the ["if" hand sign](./if#variation-1),
+which is shown below, but put the hand in front of your body instead of beside
+your eye.
 
 ![If](@signs/if-variation-1.gif)

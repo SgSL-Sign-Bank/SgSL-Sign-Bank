@@ -11,12 +11,9 @@ category: Vocabulary
 
 ## Variation 2
 
-Point upwards with an index finger on one hand
-with the palm facing outwards.
-The other hand does a "W" hand sign
-and place it in front of the index finger pointing upwards,
-with the palm facing inwards.
-Then, make a claw shape with both hands
-and place them in front of you like a tiger prowling.
+Point upwards with an index finger on one hand with the palm facing outwards.
+The other hand does a "W" hand sign and place it in front of the index finger
+pointing upwards, with the palm facing inwards. Then, make a claw shape with
+both hands and place them in front of you like a tiger prowling.
 
 This sign comes from Shanghainese Sign Language.

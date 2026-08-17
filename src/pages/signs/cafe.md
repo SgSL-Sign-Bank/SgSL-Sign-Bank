@@ -6,7 +6,7 @@ category: Vocabulary
 family: Restaurant
 ---
 
-Same motion as ["restaurant"](./restaurant),
-but use the "C" hand sign instead of the "R" hand sign.
+Same motion as ["restaurant"](./restaurant), but use the "C" hand sign instead
+of the "R" hand sign.
 
 ![Café](@signs/cafe.gif)

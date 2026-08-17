@@ -11,8 +11,7 @@ category: Vocabulary
 
 ## Variation 2
 
-Same motion as the first variation of ["see"](./see#variation-1),
-which is shown below,
-but with the "L" hand sign and the palm facing outwards.
+Same motion as the first variation of ["see"](./see#variation-1), which is shown
+below, but with the "L" hand sign and the palm facing outwards.
 
 ![Variation 1 of see](@signs/see-variation-1.gif)

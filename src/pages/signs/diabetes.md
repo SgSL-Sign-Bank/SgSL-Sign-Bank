@@ -19,6 +19,5 @@ category: Vocabulary
 
 ## Variation 4
 
-Same motion as the [first variation](#variation-1),
-but instead of using 4 fingers for the first part of the sign,
-use only the index and middle fingers.
+Same motion as the [first variation](#variation-1), but instead of using 4
+fingers for the first part of the sign, use only the index and middle fingers.

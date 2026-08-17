@@ -7,5 +7,5 @@ category: Vocabulary
 
 ![Respond](@signs/respond.gif)
 
-This gesture can also be done with the "R" hand signs
-facing towards and away from you, instead of facing towards the side.
+This gesture can also be done with the "R" hand signs facing towards and away
+from you, instead of facing towards the side.

@@ -6,7 +6,7 @@ category: Vocabulary
 family: Specialise
 ---
 
-Same motion as ["specialise"](./specialise),
-but use the "P" hand sign instead of the index finger.
+Same motion as ["specialise"](./specialise), but use the "P" hand sign instead
+of the index finger.
 
 ![Professional](@signs/professional.gif)

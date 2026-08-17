@@ -6,7 +6,7 @@ family: Science
 dependentImages: ["@signs/experiment.gif"]
 ---
 
-Same motion as ["science"](./science),
-but use the "E" hand sign instead of the thumbs down sign.
+Same motion as ["science"](./science), but use the "E" hand sign instead of the
+thumbs down sign.
 
 ![Experiment](@signs/experiment.gif)

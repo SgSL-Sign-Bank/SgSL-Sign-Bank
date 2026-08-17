@@ -5,7 +5,6 @@ image: "@signs/add-variation-2.gif"
 category: Vocabulary
 ---
 
-Exactly the same gesture as the second variation of
-["add"](./add#variation-2).
+Exactly the same gesture as the second variation of ["add"](./add#variation-2).
 
 ![Additional](@signs/add-variation-2.gif)

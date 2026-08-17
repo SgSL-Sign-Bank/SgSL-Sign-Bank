@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: ["@classifiers/cl-v-bent.gif"]
 ---
 
-Place the ["CL-V (bent)"](../resources/concepts#cl-v-bent) sign,
-which is shown below, in front of your mouth.
+Place the ["CL-V (bent)"](../resources/concepts#cl-v-bent) sign, which is shown
+below, in front of your mouth.
 
 ![CL-V (bent)](@classifiers/cl-v-bent.gif)

@@ -7,8 +7,8 @@ category: Vocabulary
 
 ## Variation 1
 
-Do the gesture for ["south"](./south),
-then do the gesture for ["America"](./america).
+Do the gesture for ["south"](./south), then do the gesture for
+["America"](./america).
 
 ![Variation 1 of South America](@signs/south-america-variation-1.gif)
 

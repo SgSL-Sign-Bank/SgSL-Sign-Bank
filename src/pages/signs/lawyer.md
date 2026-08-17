@@ -6,7 +6,7 @@ category: Vocabulary
 family: Law
 ---
 
-Do the gesture for ["law"](./law),
-followed by the [agent gesture](../resources/definitions#agent-gesture).
+Do the gesture for ["law"](./law), followed by the
+[agent gesture](../resources/definitions#agent-gesture).
 
 ![Lawyer](@signs/lawyer.gif)

@@ -6,7 +6,7 @@ category: Vocabulary
 family: Teach
 ---
 
-Do the gesture for ["instruct"](./instruct),
-followed by the [agent gesture](../resources/definitions#agent-gesture).
+Do the gesture for ["instruct"](./instruct), followed by the
+[agent gesture](../resources/definitions#agent-gesture).
 
 ![Instructor](@signs/instructor.gif)

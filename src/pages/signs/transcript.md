@@ -6,7 +6,7 @@ family: Museum
 dependentImages: ["@signs/museum.gif"]
 ---
 
-Same motion as ["museum"](./museum), which is shown below,
-but with the "T" hand sign instead of the "M" hand sign.
+Same motion as ["museum"](./museum), which is shown below, but with the "T" hand
+sign instead of the "M" hand sign.
 
 ![Museum](@signs/museum.gif)

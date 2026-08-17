@@ -19,8 +19,7 @@ Exactly the same gesture as ["pray"](./pray).
 
 ## Variation 3
 
-Similar to variation 2, which is shown below,
-but use only the index finger.
-The index finger becomes increasingly bent as it reaches its furthest point.
+Similar to variation 2, which is shown below, but use only the index finger. The
+index finger becomes increasingly bent as it reaches its furthest point.
 
 ![Variation 2 of ask](@signs/ask-variation-2.gif)

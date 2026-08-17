@@ -5,8 +5,8 @@ category: Vocabulary
 dependentImages: ["@signs/electricity-asl.gif"]
 ---
 
-Same hand position as the American Sign Language (ASL) gesture
-for "electricity" shown below, but instead of bumping your
-index finger together, flick your index fingers such that they hit each other.
+Same hand position as the American Sign Language (ASL) gesture for "electricity"
+shown below, but instead of bumping your index finger together, flick your index
+fingers such that they hit each other.
 
 ![Electricity (ASL)](@signs/electricity-asl.gif)

@@ -6,7 +6,7 @@ category: Vocabulary
 family: Important
 ---
 
-Same motion as ["important"](./important),
-but use the "M" hand sign instead of the "F" hand sign.
+Same motion as ["important"](./important), but use the "M" hand sign instead of
+the "F" hand sign.
 
 ![Main](@signs/main.gif)

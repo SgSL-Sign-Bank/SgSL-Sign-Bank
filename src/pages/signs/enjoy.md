@@ -11,12 +11,11 @@ category: Vocabulary
 
 ## Variation 2
 
-Make the "T" hand sign with one hand and rub your index finger
-against the thumb by moving the index finger up and down the thumb.
-It is like rubbing a string between your index finger and thumb.
+Make the "T" hand sign with one hand and rub your index finger against the thumb
+by moving the index finger up and down the thumb. It is like rubbing a string
+between your index finger and thumb.
 
-This sign comes from most Singaporeans having a "臭臭" or "chou chou",
-which is a small pillow, usually a baby pillow.
-Most of the time, it is not washed, and people would rub
-the frays on the fabric on the pillow between their thumb and index finger,
-which is what gave rise to this sign.
+This sign comes from most Singaporeans having a "臭臭" or "chou chou", which is
+a small pillow, usually a baby pillow. Most of the time, it is not washed, and
+people would rub the frays on the fabric on the pillow between their thumb and
+index finger, which is what gave rise to this sign.

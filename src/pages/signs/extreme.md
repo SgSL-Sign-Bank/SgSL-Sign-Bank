@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: ["@signs/very.gif"]
 ---
 
-Same motion as ["very"](./very),
-but use the "E" hand sign instead of the "V" hand sign.
+Same motion as ["very"](./very), but use the "E" hand sign instead of the "V"
+hand sign.
 
 ![Very](@signs/very.gif)

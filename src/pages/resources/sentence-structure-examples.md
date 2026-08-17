@@ -26,8 +26,8 @@ Me fine (2 thumbs up and smile).
 
 (Do a small ["where"](../signs/where) gesture)
 
-This is usually used in a close or intimate setting, like a friend or buddy.
-It is informal.
+This is usually used in a close or intimate setting, like a friend or buddy. It
+is informal.
 
 ## How old are you?
 
@@ -56,8 +56,8 @@ CNY you visit where (raise eyebrow)? You.
 
 ## Oh dear. Valentine's Day clashes with reunion dinner
 
-(Form an O shape with your mouth and cover it with both hands)
-Valentine's Day, CNY reunion dinner clash.
+(Form an O shape with your mouth and cover it with both hands) Valentine's Day,
+CNY reunion dinner clash.
 
 ## Where do I meet you?
 
@@ -73,8 +73,7 @@ MRT station (point to the part) where I meet you? You.
 
 ## Let's say we meet at 2 o'clock
 
-(Show uncertainty in your face) 2 (wiggle the 2 a bit)
-we meet (thumbs up).
+(Show uncertainty in your face) 2 (wiggle the 2 a bit) we meet (thumbs up).
 
 ## Where do you travel this time?
 
@@ -98,10 +97,9 @@ Passport have and visa settled finished.
 
 ## I have already told you, and you never listen
 
-(Angry facial expression, hands on hips)
-I told (repeat the gesture a multiple times) you (use two hands)
-many times (count up the number of times)
-and you never listen (use two hands).
+(Angry facial expression, hands on hips) I told (repeat the gesture a multiple
+times) you (use two hands) many times (count up the number of times) and you
+never listen (use two hands).
 
 ## Ali is giving a book to Siti
 
@@ -420,8 +418,8 @@ Cold water please.
 
 ## He doesn't know how to use chopsticks. Please pass him a fork and a spoon
 
-Chopstick (point to person) boy don't how use.
-Please pass him fork (left side) spoon (right side).
+Chopstick (point to person) boy don't how use. Please pass him fork (left side)
+spoon (right side).
 
 ## I am very full, so I can't eat any more
 
@@ -470,9 +468,8 @@ Tomorrow we meet where?
 
 ## The family went by MRT from Ang Mo Kio to Tampines
 
-[CL-Claw] (right side) AMK, family take MRT train [CL-3]
-(move the [CL-3] from the right side to the left side)
-[CL-Claw] (left side) Tampines.
+[CL-Claw] (right side) AMK, family take MRT train [CL-3] (move the [CL-3] from
+the right side to the left side) [CL-Claw] (left side) Tampines.
 
 ## Hannah will go swimming at the beach
 
@@ -604,8 +601,8 @@ Bus arrived already (nod head once).
 ## Shut up
 
 1. (Zip mouth with the "G" hand)
-2. (Cross two "H" signs with the palm out, and place it over the
-   other person's mouth)
+2. (Cross two "H" signs with the palm out, and place it over the other person's
+   mouth)
 
 ## Stop talking
 
@@ -650,19 +647,18 @@ Now they ([CL-2]) plan tour Philippines 2 years later.
 
 ## She wants to backpack around Asia - Malaysia, Thailand, Philippines
 
-1. (Point to person) Girl want backpack around Asia,
-   Malaysia (left side), Thailand (centre), Philippines (right side).
-2. (Point to person) Girl want backpack around Asia,
-   ([CL-3] palm facing inwards), (point to thumb) Malaysia,
-   (point to index finger) Thailand,
-   (point to middle finger) Philippines.
+1. (Point to person) Girl want backpack around Asia, Malaysia (left side),
+   Thailand (centre), Philippines (right side).
+2. (Point to person) Girl want backpack around Asia, ([CL-3] palm facing
+   inwards), (point to thumb) Malaysia, (point to index finger) Thailand, (point
+   to middle finger) Philippines.
 
 ## Tom prefers Australia to America
 
-1. Australia (left side) America (right side)
-   Tom prefer (point to the left side).
-2. ([CL-2] palm facing inwards), (point to index finger) Australia,
-   (point to middle finger) America, Tom prefer (point to the index finger).
+1. Australia (left side) America (right side) Tom prefer (point to the left
+   side).
+2. ([CL-2] palm facing inwards), (point to index finger) Australia, (point to
+   middle finger) America, Tom prefer (point to the index finger).
 
 ## People in North Korea look different from those in South Korea
 
@@ -678,9 +674,8 @@ Hotel stay how much you pay?
 
 ## How do you go to Malaysia? By car, train or plane?
 
-1. How go Malaysia? ([CL-3] palm facing inwards)
-   (Point to thumb) car, (point to index finger) train,
-   (point to middle finger) plane.
+1. How go Malaysia? ([CL-3] palm facing inwards) (Point to thumb) car, (point to
+   index finger) train, (point to middle finger) plane.
 2. How go Malaysia? Car (left side), train (centre), plane (right side).
 
 ## Did you manage to see the world?

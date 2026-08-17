@@ -1,39 +1,17 @@
 {
-  "extends": "astro/tsconfigs/strict",
-  "include": [
-    ".astro/types.d.ts",
-    "**/*"
-  ],
-  "exclude": [
-    "dist",
-    "**/pagefind"
-  ],
-  "compilerOptions": {
-    "paths": {
-      "@components/*": [
-        "./src/components/*"
-      ],
-      "@styles/*": [
-        "./src/styles/*"
-      ],
-      "@layouts/*": [
-        "./src/layouts/*"
-      ],
-      "@signs/*": [
-        "./src/assets/images-of-signs/*"
-      ],
-      "@classifiers/*": [
-        "./src/assets/classifiers/*"
-      ],
-      "@icons/*": [
-        "./src/assets/icons/*"
-      ],
-      "@videos/*": [
-        "./src/assets/videos/*"
-      ],
-      "@lib/*": [
-        "./src/lib/*"
-      ]
-    }
-  }
+	"extends": "astro/tsconfigs/strict",
+	"include": [".astro/types.d.ts", "**/*"],
+	"exclude": ["dist", "**/pagefind"],
+	"compilerOptions": {
+		"paths": {
+			"@components/*": ["./src/components/*"],
+			"@styles/*": ["./src/styles/*"],
+			"@layouts/*": ["./src/layouts/*"],
+			"@signs/*": ["./src/assets/images-of-signs/*"],
+			"@classifiers/*": ["./src/assets/classifiers/*"],
+			"@icons/*": ["./src/assets/icons/*"],
+			"@videos/*": ["./src/assets/videos/*"],
+			"@lib/*": ["./src/lib/*"]
+		}
+	}
 }

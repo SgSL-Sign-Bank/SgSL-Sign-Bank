@@ -15,10 +15,9 @@ This variation is for birds.
 
 ## Variation 2
 
-Make the ["I love you"](./i-love-you) hand sign,
-which is shown below.
-Then move your hand from chest height,
-and draw a semicircle over your head with your hand.
+Make the ["I love you"](./i-love-you) hand sign, which is shown below. Then move
+your hand from chest height, and draw a semicircle over your head with your
+hand.
 
 ![I love you](@signs/i-love-you.gif)
 

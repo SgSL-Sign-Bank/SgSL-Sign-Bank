@@ -11,5 +11,5 @@ category: Vocabulary
 
 ## Variation 2
 
-For the hand on top, same motion as the [first variation](#variation-1),
-but do it above your head, and the other hand does not do anything.
+For the hand on top, same motion as the [first variation](#variation-1), but do
+it above your head, and the other hand does not do anything.

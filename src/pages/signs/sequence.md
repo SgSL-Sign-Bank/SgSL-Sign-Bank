@@ -5,7 +5,7 @@ image: "@signs/sequence.gif"
 category: Vocabulary
 ---
 
-Doing the gesture below with just the index finger on both hands
-instead of the palm is fine too.
+Doing the gesture below with just the index finger on both hands instead of the
+palm is fine too.
 
 ![Sequence](@signs/sequence.gif)

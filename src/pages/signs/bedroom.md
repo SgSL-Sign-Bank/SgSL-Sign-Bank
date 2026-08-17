@@ -5,7 +5,6 @@ image: "@signs/bed-variation-2.gif"
 category: Vocabulary
 ---
 
-Exactly the same gesture as the second variation of
-["bed"](./bed#variation-2).
+Exactly the same gesture as the second variation of ["bed"](./bed#variation-2).
 
 ![Bedroom](@signs/bed-variation-2.gif)

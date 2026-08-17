@@ -5,10 +5,8 @@ category: Vocabulary
 dependentImages: ["@signs/brother.gif", "@signs/sister.gif"]
 ---
 
-Do the gesture for ["brother"](./brother),
-which is the first image below,
-then do the gesture for ["sister"](./sister),
-which is the second image below.
+Do the gesture for ["brother"](./brother), which is the first image below, then
+do the gesture for ["sister"](./sister), which is the second image below.
 
 ![Brother](@signs/brother.gif)
 

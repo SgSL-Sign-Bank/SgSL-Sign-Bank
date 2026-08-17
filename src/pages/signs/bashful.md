@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: ["@signs/shy.gif"]
 ---
 
-Same motion as ["shy"](./shy), which is shown below,
-but do it with both hands instead of just one.
+Same motion as ["shy"](./shy), which is shown below, but do it with both hands
+instead of just one.
 
 ![Shy](@signs/shy.gif)

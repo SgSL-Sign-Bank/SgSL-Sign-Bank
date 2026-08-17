@@ -4,5 +4,4 @@ title: Land
 category: Vocabulary
 ---
 
-Same motion as ["ground"](./ground),
-but with the "L" hand sign instead.
+Same motion as ["ground"](./ground), but with the "L" hand sign instead.

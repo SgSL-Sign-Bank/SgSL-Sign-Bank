@@ -6,7 +6,7 @@ category: Vocabulary
 family: Special
 ---
 
-Same motion as ["special"](./special),
-but use the "U" hand sign instead of the index finger.
+Same motion as ["special"](./special), but use the "U" hand sign instead of the
+index finger.
 
 ![Unique](@signs/unique.gif)

@@ -5,8 +5,7 @@ category: Vocabulary
 dependentImages: ["@signs/table.gif"]
 ---
 
-Do the gesture for ["table"](./table), which is shown below,
-but have one elbow slightly higher than the other
-and bend your back backwards a bit.
+Do the gesture for ["table"](./table), which is shown below, but have one elbow
+slightly higher than the other and bend your back backwards a bit.
 
 ![Table](@signs/table.gif)

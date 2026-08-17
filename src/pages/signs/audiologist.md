@@ -5,7 +5,7 @@ image: "@signs/audiologist.gif"
 category: Vocabulary
 ---
 
-Do the gesture for ["audio"](./audio),
-followed by the [agent gesture](../resources/definitions#agent-gesture).
+Do the gesture for ["audio"](./audio), followed by the
+[agent gesture](../resources/definitions#agent-gesture).
 
 ![Audiologist](@signs/audiologist.gif)

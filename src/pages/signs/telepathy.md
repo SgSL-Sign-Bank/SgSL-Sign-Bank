@@ -6,7 +6,7 @@ category: Vocabulary
 family: Understand
 ---
 
-Do the gesture for ["think"](./think),
-followed by the gesture for ["empathy"](./empathy).
+Do the gesture for ["think"](./think), followed by the gesture for
+["empathy"](./empathy).
 
 ![Telepathy](@signs/telepathy.gif)

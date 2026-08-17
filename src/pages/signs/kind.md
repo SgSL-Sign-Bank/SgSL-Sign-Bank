@@ -8,7 +8,7 @@ family: All
 
 Kind as in "a kind of insect".
 
-Same motion as ["all"](./all),
-but with a "K" hand sign instead of the open palm.
+Same motion as ["all"](./all), but with a "K" hand sign instead of the open
+palm.
 
 ![Kind](@signs/kind.gif)

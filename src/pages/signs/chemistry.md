@@ -6,7 +6,7 @@ category: Vocabulary
 family: Science
 ---
 
-Same motion as ["science"](./science),
-but use the "C" hand sign instead of the thumbs down sign.
+Same motion as ["science"](./science), but use the "C" hand sign instead of the
+thumbs down sign.
 
 ![Chemistry](@signs/chemistry.gif)

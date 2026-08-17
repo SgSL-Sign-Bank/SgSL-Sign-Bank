@@ -15,10 +15,8 @@ category: Vocabulary
 
 ## Variation 3
 
-Similar to the first variation, shown below,
-but for the first part of the gesture,
-show a "0" hand sign instead of the flattened "O" hand sign
-below the chin.
-The second part of the gesture is the same.
+Similar to the first variation, shown below, but for the first part of the
+gesture, show a "0" hand sign instead of the flattened "O" hand sign below the
+chin. The second part of the gesture is the same.
 
 ![Variation 1 of nothing](@signs/nothing-variation-1.gif)

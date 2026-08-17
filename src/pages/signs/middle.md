@@ -14,5 +14,5 @@ family: Middle
 
 ## Variation 2
 
-Same motion as the [first variation](#variation-1),
-but use the "M" hand sign for the hand on top instead of the bent hand.
+Same motion as the [first variation](#variation-1), but use the "M" hand sign
+for the hand on top instead of the bent hand.
