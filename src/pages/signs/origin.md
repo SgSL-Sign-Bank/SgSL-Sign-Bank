@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Initial
+title: Origin
 category: Vocabulary
 family: Start
 dependentImages: ["@signs/begin-variation-1.gif"]
@@ -9,7 +9,7 @@ dependentImages: ["@signs/begin-variation-1.gif"]
 ## Variation 1
 
 Same motion as the [first variation of "begin"](./begin#variation-1), which is
-shown below, but use the "I" hand sign instead of the "B" hand sign.
+shown below, but use the "O" hand sign instead of the "B" hand sign.
 
 ![Variation 1 of begin](@signs/begin-variation-1.gif)
 
