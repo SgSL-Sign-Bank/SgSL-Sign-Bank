@@ -13,15 +13,15 @@
 		"@astrojs/markdown-satteri": "^0.4.3",
 		"@astrojs/mdx": "^8.0.3",
 		"@astrojs/sitemap": "^3.7.4",
-		"astro": "^7.3.6",
+		"astro": "^7.3.8",
 		"sharp": "^0.35.5",
 		"typescript": "^6.0.3"
 	},
 	"devDependencies": {
 		"@astrojs/check": "^0.9.10",
 		"pagefind": "^1.5.2",
-		"prettier": "^3.9.9",
-		"prettier-plugin-astro": "^1.1.0",
+		"prettier": "^3.9.10",
+		"prettier-plugin-astro": "^1.1.1",
 		"vite-plugin-pagefind": "^1.1.1"
 	}
 }
